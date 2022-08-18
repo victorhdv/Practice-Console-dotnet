@@ -1,0 +1,15 @@
+C:\Users\08008903457\Victor\Editor\bin\Debug\net6.0\Editor.exe
+C:\Users\08008903457\Victor\Editor\bin\Debug\net6.0\Editor.deps.json
+C:\Users\08008903457\Victor\Editor\bin\Debug\net6.0\Editor.runtimeconfig.json
+C:\Users\08008903457\Victor\Editor\bin\Debug\net6.0\Editor.dll
+C:\Users\08008903457\Victor\Editor\bin\Debug\net6.0\Editor.pdb
+C:\Users\08008903457\Victor\Editor\obj\Debug\net6.0\Editor.csproj.AssemblyReference.cache
+C:\Users\08008903457\Victor\Editor\obj\Debug\net6.0\Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\08008903457\Victor\Editor\obj\Debug\net6.0\Editor.AssemblyInfoInputs.cache
+C:\Users\08008903457\Victor\Editor\obj\Debug\net6.0\Editor.AssemblyInfo.cs
+C:\Users\08008903457\Victor\Editor\obj\Debug\net6.0\Editor.csproj.CoreCompileInputs.cache
+C:\Users\08008903457\Victor\Editor\obj\Debug\net6.0\Editor.dll
+C:\Users\08008903457\Victor\Editor\obj\Debug\net6.0\refint\Editor.dll
+C:\Users\08008903457\Victor\Editor\obj\Debug\net6.0\Editor.pdb
+C:\Users\08008903457\Victor\Editor\obj\Debug\net6.0\Editor.genruntimeconfig.cache
+C:\Users\08008903457\Victor\Editor\obj\Debug\net6.0\ref\Editor.dll
